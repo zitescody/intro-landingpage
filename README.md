@@ -46,7 +46,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Soution File](https://github.com/zitescody/intro-landingpage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://zitescody.github.io/intro-landingpage/)
 
 ## My process
 
