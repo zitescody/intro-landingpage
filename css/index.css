@@ -62,7 +62,7 @@ div.col-4 {
     margin-top: 5%;
 }
  
-div.container {
+main.container {
     display: grid;
     grid-template-columns: [first] 5% [second] 90% [third] 5% [end];
     grid-template-rows: [first] 10% [second] 30% [third] 50% [fourth] 10% [end];
@@ -143,7 +143,7 @@ button.btn:hover {
     div.col-4 {
         justify-self: end;
     }
-    div.container {
+    main.container {
         display: grid;
         grid-template-columns: [first] 5% [second] 49.5% [third] 40.5% [fourth] 5% [end];
         grid-template-rows: [first] 10% [second] 30% [third] 50% [fourth] 10% [end];
